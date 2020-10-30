@@ -73,7 +73,6 @@ Clone this repository :
 
 ```
 git clone https://github.com/theneoterik/Clinder.git
-
 ```
 
 Install packages and start your app :
