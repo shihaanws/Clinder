@@ -34,7 +34,6 @@ This project was inspired by [ Clever Programmer ](https://www.instagram.com/cle
 * **Firebase(Firestore)** - Cloud Database connectivity with CRUD functionalities for TinderCards. 
 * **MaterialUI**  - A React component to add icons. 
 * **TinderCard**  - An npm React module for swiping functionality. 
-* **MaterialUI**  - A React component to add icons. 
 
 
 
@@ -65,7 +64,7 @@ This project was inspired by [ Clever Programmer ](https://www.instagram.com/cle
 
 Be sure, you have installed all dependencies and applications to run React project on your computer : [Getting Started - React ](https://reactjs.org/docs/getting-started.html).
 
-This project works fine for iOS but in Android version there are serious UI problems because I've only worked on iOS.
+
 
 
 ### Running the project
@@ -96,7 +95,7 @@ npm start
 
 ## Star, Fork, Clone & Contribute
 
-Feel free to clone and contribute on this repository. If my work helps you, please give me back with a star. It really means a lot to me and keeps me going !
-Happy Coding!
+Feel free to clone and contribute on this repository. If my work helps you, please give me back with a star. It really means a lot to me and keeps me going !<br>
+**Happy Coding !
 
 
