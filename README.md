@@ -35,19 +35,19 @@ This project was inspired by this CleverProgrammer. Feel free to follow this guy
 ## Screenshots
 
 <img
-		width="210"
+		width="300"
 		alt="Capture 1"
 		src="https://github.com/theneoterik/Clinder/blob/main/tinder-clone/1.png">
 <img
-		width="210"
+		width="300"
 		alt="Capture 2"
 		src="https://github.com/theneoterik/Clinder/blob/main/tinder-clone/2.png">
 <img
-		width="210"
+		width="300"
 		alt="Capture 3"
 		src="https://github.com/theneoterik/Clinder/blob/main/tinder-clone/3.png"><br>
 <img
-		width="210"
+		width="600"
 		alt="Capture 4"
 		src="https://github.com/theneoterik/Clinder/blob/main/tinder-clone/4.png">
 
