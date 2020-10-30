@@ -12,7 +12,7 @@
 
 <p align="center">
 	<img alt="Licence" src="https://img.shields.io/github/license/theneoterik/clinder.svg?style=flat-square">
-	<img alt="Star" src="https://img.shields.io/badge/you%20like%20%3F-STAR%20ME-blue.svg?style=flat-square">
+	<img alt="Star" src="https://img.shields.io/badge/Liked%20it%20%3F-STAR%20ME-blue.svg?style=flat-square">
 </p>
 
 <p align="center">
