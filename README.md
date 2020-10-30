@@ -1,5 +1,5 @@
 # Clinder
-A Tinder-like WebApp built with ReactJS and Firebase.
+A Tinder-like WebApp built with ReactJS and Firebase.<br>
 Live app: https://clinderr.vercel.app/
 
 
