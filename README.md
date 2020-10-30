@@ -31,7 +31,11 @@ More features will be added to the project in the future.
 This project was inspired by this CleverProgrammer. Feel free to follow this guy because he does great stuff.
 
 ## Tools and Functionalities
-**MaterialUI**   * - A React component to add icons.  
+**ReactJS**     - FrontEnd Javascript Framework.
+**Firebase(Firestore)** - Cloud Database connectivity with CRUD functionalities for TinderCards. 
+**MaterialUI**  - A React component to add icons. 
+
+
 
 
 ## Screenshots
