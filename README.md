@@ -49,7 +49,7 @@ This project was inspired by this CleverProgrammer. Feel free to follow this guy
 <img
 		width="210"
 		alt="Capture 4"
-		src="https://github.com/stevenpersia/tinder-react-native/blob/master/preview/capture-4.png">
+		src="https://github.com/theneoterik/Clinder/blob/main/tinder-clone/4.png">
 
 
 ## Installation and usage
