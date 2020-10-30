@@ -47,8 +47,8 @@ This project was inspired by this CleverProgrammer. Feel free to follow this guy
 		alt="Capture 3"
 		src="https://github.com/theneoterik/Clinder/blob/main/tinder-clone/3.png"><br>
 <img
-		max-width: 100%;
-                 height: auto;
+		<style>max-width: 100%;
+                 height: auto;</style>
 		alt="Capture 4"
 		src="https://github.com/theneoterik/Clinder/blob/main/tinder-clone/4.png">
 
