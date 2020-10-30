@@ -1,5 +1,5 @@
 # Clinder
-
+A Tinder-like WebApp built with ReactJS and Firebase.
 <h1 align="center">
 <img
 		width="250"
