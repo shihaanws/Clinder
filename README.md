@@ -1,5 +1,8 @@
 # Clinder
 A Tinder-like WebApp built with ReactJS and Firebase.
+***Chat functionality
+**gh
+
 <h1 align="center">
 <img
 		width="250"
