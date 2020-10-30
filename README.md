@@ -45,7 +45,7 @@ This project was inspired by this CleverProgrammer. Feel free to follow this guy
 <img
 		width="300"
 		alt="Capture 3"
-		src="https://github.com/theneoterik/Clinder/blob/main/tinder-clone/3.png"><br>
+		src="https://github.com/theneoterik/Clinder/blob/main/tinder-clone/3.png"><br><br><br>
 <img
 		width="1200"
 		alt="Capture 4"
