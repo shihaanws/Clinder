@@ -37,15 +37,15 @@ This project was inspired by this CleverProgrammer. Feel free to follow this guy
 <img
 		width="210"
 		alt="Capture 1"
-		src="https://github.com/stevenpersia/tinder-react-native/blob/master/preview/capture-1.png">
+		src="https://github.com/theneoterik/Clinder/blob/main/tinder-clone/1.png">
 <img
 		width="210"
 		alt="Capture 2"
-		src="https://github.com/stevenpersia/tinder-react-native/blob/master/preview/capture-2.png">
+		src="https://github.com/theneoterik/Clinder/blob/main/tinder-clone/2.png">
 <img
 		width="210"
 		alt="Capture 3"
-		src="https://github.com/stevenpersia/tinder-react-native/blob/master/preview/capture-3.png">
+		src="https://github.com/theneoterik/Clinder/blob/main/tinder-clone/3.png">
 <img
 		width="210"
 		alt="Capture 4"
