@@ -37,11 +37,11 @@ This project was inspired by this CleverProgrammer. Feel free to follow this guy
 <img
 		width="300"
 		alt="Capture 1"
-		src="https://github.com/theneoterik/Clinder/blob/main/tinder-clone/1.png">&nbsp
+		src="https://github.com/theneoterik/Clinder/blob/main/tinder-clone/1.png"> &nbsp;
 <img
 		width="300"
 		alt="Capture 2"
-		src="https://github.com/theneoterik/Clinder/blob/main/tinder-clone/2.png">&nbsp
+		src="https://github.com/theneoterik/Clinder/blob/main/tinder-clone/2.png"> &nbsp;
 <img
 		width="300"
 		alt="Capture 3"
