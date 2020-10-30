@@ -24,16 +24,19 @@ A Tinder-like WebApp built with ReactJS and Firebase.
 
 ## Overview
 
-**Perfect to start an Tinder Clone app.** 4 screens are availables : Explore, Matches, Messages and Profile. You'll find some components like Card Component to pass props and variant. No frameworks UI like Bootstrap or Material UI are used.
-
+**A Fully Responsive Tinder Clone WebApp.** 3 screens are availables : Home , Inbox , ChatScreen. 
 More features will be added to the project in the future.
 
-This project was inspired by this CleverProgrammer. Feel free to follow this guy because he does great stuff.
+This project was inspired by [ Clever Programmer ](https://www.instagram.com/cleverqazi/) Feel free to follow this guy because he does really cool stuff.
 
 ## Tools and Functionalities
 * **ReactJS**     - FrontEnd Javascript Framework.
 * **Firebase(Firestore)** - Cloud Database connectivity with CRUD functionalities for TinderCards. 
 * **MaterialUI**  - A React component to add icons. 
+* **TinderCard**  - An npm React module for swiping functionality. 
+* **MaterialUI**  - A React component to add icons. 
+
+
 
 
 
