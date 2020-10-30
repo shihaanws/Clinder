@@ -27,7 +27,7 @@ A Tinder-like WebApp built with ReactJS and Firebase.
 **A Fully Responsive Tinder Clone WebApp.** 3 screens are available : Home , Inbox , ChatScreen. 
 More features will be added to the project in the future.
 
-This project was inspired by [ Clever Programmer ](https://www.instagram.com/cleverqazi/) .Feel free to follow this guy because he does really cool stuff.
+
 
 ## Tools and Functionalities
 * **ReactJS**     - FrontEnd Javascript Framework.
