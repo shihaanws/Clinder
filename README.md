@@ -4,7 +4,7 @@
 <img
 		width="250"
 		alt="Clinder -Tinder Clone for Client Onboarding and to maximize collaboration and support. "
-		src="https://github.com/theneoterik/Clinder/blob/main/clinder.png">
+		src="https://github.com/theneoterik/Clinder/blob/main/Screenshot%20from%202020-10-29%2021-59-14.png">
 </h1>
 <h3 align="center">
 	Clinder -Tinder Clone for Client Onboarding and to maximize collaboration and support. 
