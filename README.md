@@ -13,7 +13,7 @@ A Tinder-like WebApp built with ReactJS and Firebase.
 </h3>
 
 <p align="center">
-	<img alt="Licence" src="https://img.shields.io/github/license/theneoterik/clinder.svg?style=flat-square">
+	<img alt="Licence" src="https://img.shields.io/github/License/theneoterik/clinder.svg?style=flat-square">
 	<img alt="Star" src="https://img.shields.io/badge/Liked%20it%20%3F-STAR%20ME-blue.svg?style=flat-square">
 </p>
 
