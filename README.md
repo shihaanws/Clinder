@@ -4,10 +4,10 @@
 <img
 		width="250"
 		alt="Clinder -Tinder Clone for Client Onboarding and to maximize collaboration and support. "
-		src="https://github.com/stevenpersia/tinder-react-native/blob/master/preview/tinder-clone-logo.gif">
+		src="https://github.com/theneoterik/Clinder/blob/main/clinder.png">
 </h1>
 <h3 align="center">
-	Tinder Clone - React Native
+	Clinder -Tinder Clone for Client Onboarding and to maximize collaboration and support. 
 </h3>
 
 <p align="center">
