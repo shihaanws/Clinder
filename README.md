@@ -37,11 +37,11 @@ This project was inspired by this CleverProgrammer. Feel free to follow this guy
 <img
 		width="300"
 		alt="Capture 1"
-		src="https://github.com/theneoterik/Clinder/blob/main/tinder-clone/1.png"> &nbsp;
+		src="https://github.com/theneoterik/Clinder/blob/main/tinder-clone/1.png"> 
 <img
 		width="300"
 		alt="Capture 2"
-		src="https://github.com/theneoterik/Clinder/blob/main/tinder-clone/2.png">&nbsp;
+		src="https://github.com/theneoterik/Clinder/blob/main/tinder-clone/2.png">
 <img
 		width="300"
 		alt="Capture 3"
@@ -64,7 +64,7 @@ This project works fine for iOS but in Android version there are serious UI prob
 Clone this repository :
 
 ```
-git clone https://github.com/theneoterik/clinder.git
+git clone https://github.com/theneoterik/Clinder.git
 
 ```
 
