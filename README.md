@@ -1,7 +1,6 @@
 # Clinder
 A Tinder-like WebApp built with ReactJS and Firebase.
-***Chat functionality
-**gh
+
 
 <h1 align="center">
 <img
@@ -30,6 +29,8 @@ A Tinder-like WebApp built with ReactJS and Firebase.
 More features will be added to the project in the future.
 
 This project was inspired by this CleverProgrammer. Feel free to follow this guy because he does great stuff.
+
+## Tools and Functionalities
 
 
 ## Screenshots
@@ -68,10 +69,11 @@ git clone https://github.com/theneoterik/Clinder.git
 
 ```
 
-Install packages :
+Install packages and start your app :
 
 ```
 npm install
+npm create-react-app Clinder
 ```
 
 When installation is complete, run with version of your choice :
