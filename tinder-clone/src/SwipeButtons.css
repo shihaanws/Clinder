@@ -10,6 +10,7 @@
 .swipeButtons{
     position: absolute;
     bottom:0;
+    margin-bottom:20px;
    
 }
 .swipeButtons__close{
