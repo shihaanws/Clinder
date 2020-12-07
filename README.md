@@ -19,7 +19,7 @@ Live app:  [Clinder](https://clinder.vercel.app/)
 </p>
 
 <p align="center">
-	<img src="https://github.com/theneoterik/Clinder/blob/main/tinder-clone/Demo.gif" width="300">
+	<img src="https://github.com/theneoterik/Clinder/blob/main/tinder-clone/demo.gif" width="300">
 </p>
 
 
