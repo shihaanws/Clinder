@@ -27,9 +27,9 @@ const StyledButton = withStyles({
       borderRadius: 15,
       width:100,
       border: 0,
+      marginTop:25,
       color: 'white',
       height: 80,
-      marginTop: 25,
       width:100,
       padding: '0 10px',
       boxShadow: '0 3px 5px 2px rgba(255, 105, 135, .3)',
@@ -44,9 +44,9 @@ const StyledButton = withStyles({
       borderRadius: 15,
       width:100,
       border: 0,
+      marginTop:25,
       color: 'white',
       height: 80,
-      marginTop: 25,
       width:100,
       padding: '0 10px',
       boxShadow: '0 3px 5px 2px rgba(255, 105, 135, .3)',
@@ -70,6 +70,9 @@ const SwipeButtons = () => {
 };
 
 export default SwipeButtons;
+
+
+
 
 
 
